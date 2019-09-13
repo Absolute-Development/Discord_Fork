@@ -22,13 +22,13 @@ class Footer extends React.Component {
             <a href="https://github.com/Terminal/Discord_Fork/blob/v2/LICENCE">
               <FormattedMessage id="footer.licence" />
             </a>｜
-            <a href="https://github.com/Terminal/Discord_Fork/network/dependencies">
+            <a href="https://github.com/Absolute-Development">
               <FormattedMessage id="footer.attribution" />
             </a>｜
-            <a href="https://github.com/Terminal/Discord_Fork">
+            <a href="https://github.com/Absolute-Development/Discord_Fork">
               <FormattedMessage id="footer.source" />
             </a>｜
-            <a href="https://discord.gg/8uC6aKZ" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/vWUr5W6" target="_blank" rel="noopener noreferrer">
               <FormattedMessage id="footer.terminal" />
             </a>
           </p>
